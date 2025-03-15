@@ -529,8 +529,11 @@ Below is final Snapshot of Complete Pipelined RISC-V CPU.
 Acknowledgements:
 
 Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
+
 Steve Hoover, Founder, Redwood EDA
+
 Shivam Potdar, GSoC 2020 @fossi-foundation
+
 Vineet Jain, GSoC 2020 @fossi-foundation
 
 
